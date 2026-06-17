@@ -1,5 +1,4 @@
 # Regression_for_dynamin_pricing
-# Dynamic Pricing Prediction System
 
 ## Overview
 
